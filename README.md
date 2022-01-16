@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bn-jo
+- 👋 Hi, I’m Ben guetta (bn-jo)
 - 👀 I’m interested in Java .
 - 🌱 I’m currently learning Java .
 - 💞️ I’m looking to collaborate on cool and intrasting projects.
