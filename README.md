@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java .
 - 🌱 I’m currently learning Java .
 - 💞️ I’m looking to collaborate on cool and intrasting projects.
-- 📫 benguetta7@gmail.com
+- 📫 benguetta@icloud.com 
 
 <!---
 bn-jo/bn-jo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
