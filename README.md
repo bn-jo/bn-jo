@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben guetta (bn-jo)
-- 👀 I’m interested in Java, Web development, Javascript, Games, Design, Ui & Ux.
+- 👀 I’m interested in Java, Javascript, C#, Web development, Games, Design, Ui & Ux.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on cool and intrasting projects.
 - 📫 benguetta@icloud.com 
